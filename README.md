@@ -6,13 +6,13 @@
 
 #### Day 1 - Setting up 
 **Topics Covered**  
-- [ ] Printing  
-- [ ] Inputting
-- [ ] Commenting  
-- [ ] Debugging   
+- [x] Printing  
+- [x] Inputting
+- [x] Commenting  
+- [x] Debugging   
 - [ ] Name Error
-- [ ] Syntax Errors
-- [ ] String Manipulation  
+- [x] Syntax Errors
+- [x] String Manipulation  
 - [ ] Variables  
 
 The project for day one will be <mark>Band name generator</mark>.  
