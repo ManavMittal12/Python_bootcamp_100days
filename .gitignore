@@ -1,0 +1,5 @@
+# IntelliJ IDEA
+.idea/
+
+# Python Virtual Environment
+.venv314/
