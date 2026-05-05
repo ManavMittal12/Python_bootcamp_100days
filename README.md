@@ -10,10 +10,10 @@
 - [x] Inputting
 - [x] Commenting  
 - [x] Debugging   
-- [ ] Name Error
+- [x] Name Error
 - [x] Syntax Errors
 - [x] String Manipulation  
-- [ ] Variables  
+- [x] Variables  
 
 The project for day one will be <mark>Band name generator</mark>.  
 * This project will take the name of the city one grew up in 
