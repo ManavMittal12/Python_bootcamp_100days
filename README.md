@@ -24,11 +24,11 @@ Then it gives the name of the band.
 
 #### Day 2 - Understanding  Data types and How to manipulate strings 
 **Topics Covered**
-- [ ] Data Types
-- [ ] Numbers 
-- [ ] Operations 
-- [ ] Type Conversion
-- [ ] f-strings
+- [x] Data Types
+- [x] Numbers 
+- [x] Operations 
+- [x] Type Conversion
+- [x] f-strings
 
 The project for day two will be <mark>Tip Calculator</mark>
 * The total bill we need to pay
