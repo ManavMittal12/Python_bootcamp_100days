@@ -35,3 +35,14 @@ The project for day two will be <mark>Tip Calculator</mark>
 * what percentage of the bill you want to tip 
 * How many people to split the bill 
 * and How much each person has to pay.
+
+----
+
+#### Day 3 - Control flow and logical operators 
+**Topics Covered**
+- [ ] Conditional Statements
+- [ ] Logical Operators
+- [ ] Code Blocks 
+- [ ] Code Scope 
+
+The project for day three will be <mark>Treasure Island</mark>
