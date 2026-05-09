@@ -48,3 +48,10 @@ The project for day two will be <mark>Tip Calculator</mark>
 The project for day three will be <mark>Treasure Island</mark>
 -- The mission is to find the treasure 
 -- Let's user choose direction and continues the story line 
+
+#### Day 4 - Randomisation and Python Lists
+**Topics Covered**
+- [x] Randomisation
+- [x] Python Lists
+- [x] What are Modules?
+The project for day three will be <mark>Rock Paper Scissors</mark
