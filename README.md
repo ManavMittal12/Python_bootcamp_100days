@@ -40,9 +40,11 @@ The project for day two will be <mark>Tip Calculator</mark>
 
 #### Day 3 - Control flow and logical operators 
 **Topics Covered**
-- [ ] Conditional Statements
-- [ ] Logical Operators
-- [ ] Code Blocks 
-- [ ] Code Scope 
+- [x] Conditional Statements
+- [x] Logical Operators
+- [x] Code Blocks 
+- [x] Code Scope 
 
 The project for day three will be <mark>Treasure Island</mark>
+-- The mission is to find the treasure 
+-- Let's user choose direction and continues the story line 
