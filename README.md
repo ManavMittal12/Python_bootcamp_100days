@@ -54,4 +54,6 @@ The project for day three will be <mark>Treasure Island</mark>
 - [x] Randomisation
 - [x] Python Lists
 - [x] What are Modules?
+- [x] Index Errors 
+- [x] Working with Nested List
 The project for day three will be <mark>Rock Paper Scissors</mark
