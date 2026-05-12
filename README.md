@@ -65,11 +65,21 @@ The project for day four will be <mark>Rock Paper Scissors</mark>
 
 #### Day 5 - Python Loops 
 **Topics Covered**
-- [ ] For Loops 
-- [ ] Range
+- [x] For Loops 
+- [x] Range
 - [x] Code Block  
   
 The project for day five will be <mark>Create a Password Generator</mark>
 - Asks how many letters we would like 
 - How many symbols ?
 - and how many numbers would we like ?
+
+----
+
+#### Day 6 - Python Functions & Karel
+**Topics Covered**
+- [x] Functions
+- [x] Code Blocks
+- [ ] While Loop
+
+The project for day five will be <mark>karel the robot :)</mark>
