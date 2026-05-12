@@ -80,6 +80,6 @@ The project for day five will be <mark>Create a Password Generator</mark>
 **Topics Covered**
 - [x] Functions
 - [x] Code Blocks
-- [ ] While Loop
+- [x] While Loop
 
-The project for day five will be <mark>karel the robot :)</mark>
+The project for day five will be <mark>Escaping the maze</mark>
