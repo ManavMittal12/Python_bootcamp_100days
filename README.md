@@ -97,7 +97,7 @@ of the man is in danger.
 
 #### Day - 8 - Function Parameters & Caesar Cipher
 **Topics Covered**
-- [ ] Functions with Input
+- [x] Functions with Input
 - [ ] Positional vs Keyword Arguments
 
 The projects for the day are,
