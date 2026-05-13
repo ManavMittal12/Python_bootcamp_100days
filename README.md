@@ -83,3 +83,13 @@ The project for day five will be <mark>Create a Password Generator</mark>
 - [x] While Loop
 
 The project for day five will be <mark>Escaping the maze</mark>
+> Come back to this problem after day 15 
+
+----
+
+#### Day 7 - Project Hangman
+**Day Dedicated to creating project "Hangman"**
+- Guess a word 
+- For every wrong letter submitted, a life is taken away
+- longer it takes to guess a work, the more the life 
+of the man is in danger.
