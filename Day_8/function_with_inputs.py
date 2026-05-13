@@ -9,7 +9,7 @@ def my_function():
 
 
 calling the function
-def my_function()
+my_function()
 '''
 
 
