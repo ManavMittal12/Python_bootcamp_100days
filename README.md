@@ -93,3 +93,13 @@ The project for day five will be <mark>Escaping the maze</mark>
 - For every wrong letter submitted, a life is taken away
 - longer it takes to guess a work, the more the life 
 of the man is in danger.
+
+
+#### Day - 8 - Function Parameters & Caesar Cipher
+**Topics Covered**
+- [ ] Functions with Input
+- [ ] Positional vs Keyword Arguments
+
+The projects for the day are,
+- [ ] Love Calculator
+- [ ] Caesar Cipher
