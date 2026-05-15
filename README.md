@@ -98,8 +98,9 @@ of the man is in danger.
 #### Day - 8 - Function Parameters & Caesar Cipher
 **Topics Covered**
 - [x] Functions with Input
-- [ ] Positional vs Keyword Arguments
+- [x] Positional vs Keyword Arguments
 
 The projects for the day are,
-- [ ] Love Calculator
-- [ ] Caesar Cipher
+- [x] Love Calculator
+- [x] Caesar Cipher
+- [X] Life in Weeks
