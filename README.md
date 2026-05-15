@@ -94,6 +94,7 @@ The project for day five will be <mark>Escaping the maze</mark>
 - longer it takes to guess a work, the more the life 
 of the man is in danger.
 
+----
 
 #### Day - 8 - Function Parameters & Caesar Cipher
 **Topics Covered**
@@ -104,3 +105,9 @@ The projects for the day are,
 - [x] Love Calculator
 - [x] Caesar Cipher
 - [X] Life in Weeks
+
+#### Day 9 - Dictionaries, Nesting and the Secret Auction
+**Topics Covered**
+- [x] Dictionaries
+- [x] Nesting
+The project for the day is <mark>The secret auction</mark>
