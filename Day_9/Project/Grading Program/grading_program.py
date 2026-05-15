@@ -9,9 +9,6 @@ student_scores = {
 }
 
 
-# TODO: Convert their scores to Grades.
-# TODO: Have a new dictionary containing names as keys and their assessed grades for values.
-
 student_grades = {}
 
 for students in student_scores:
