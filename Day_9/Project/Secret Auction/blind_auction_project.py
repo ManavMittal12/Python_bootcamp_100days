@@ -1,5 +1,17 @@
 from art import logo
 
+
+def highest_bidder(bid_dict):
+    max_bid = float('-inf') # that's how you declare infinity
+    highest_biddr = None
+    for hbu in bidder_dict:
+        if bidder_dict[hbu] > max_bid:
+            max_bid = bidder_dict[hbu]
+            highest_biddr = hbu
+
+    print(f"Bid won ${max_bid} by {highest_biddr}")
+
+
 print(logo)
 # TODO-1: Ask the user for input
 new_bidder = True
@@ -21,11 +33,4 @@ while new_bidder:
         print("\n" * 100)
 
 # TODO-4: Compare bids in dictionary
-max_bid = float('-inf') # that's how you declare infinity
-highest_bidder = None
-for hbu in bidder_dict:
-    if bidder_dict[hbu] > max_bid:
-        max_bid = bidder_dict[hbu]
-        highest_bidder = hbu
-
-print(f"Bid won ${max_bid} by {highest_bidder}")
+highest_bidder(bidder_dict)
