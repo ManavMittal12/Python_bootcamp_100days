@@ -106,8 +106,18 @@ The projects for the day are,
 - [x] Caesar Cipher
 - [X] Life in Weeks
 
+----
+
 #### Day 9 - Dictionaries, Nesting and the Secret Auction
 **Topics Covered**
 - [x] Dictionaries
 - [x] Nesting
 The project for the day is <mark>The secret auction</mark>
+
+----
+
+##### Day 10 - Functions with Output
+**Topics Covered**
+- [x] Functions with Outputs
+- [x] Docstrings
+The project for the day is <mark>The calculator project</mark>
