@@ -1,5 +1,5 @@
 
-Aliasing in python
+# Aliasing in python
 # We can store a function as a value of a variable.
 def add(n1, n2):
     return n1 + n2
