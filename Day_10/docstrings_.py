@@ -17,6 +17,7 @@
 def format_name(lname, fname):
     """Take a first and last name and format it to return the title case version of the name
     """
+
     formatted_f_name = fname.capitalize()
     formatted_l_name = lname.capitalize()
     return f"{formatted_f_name} {formatted_l_name}"
