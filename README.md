@@ -116,8 +116,20 @@ The project for the day is <mark>The secret auction</mark>
 
 ----
 
-##### Day 10 - Functions with Output
+#### Day 10 - Functions with Output
 **Topics Covered**
 - [x] Functions with Outputs
 - [x] Docstrings
 The project for the day is <mark>The calculator project</mark>
+
+----
+
+#### Day 11 - Blackjack Capstone Project
+
+----
+
+#### Day 12 - Scope and Number Guessing Game
+**Topics Covered**
+- [x] Scope
+- [x] namespace
+The project for the day is <mark>Number Guessing game</mark>
