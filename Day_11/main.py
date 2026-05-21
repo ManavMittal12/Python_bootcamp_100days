@@ -1,54 +1,86 @@
 from art import logo
 import random
-
-
-def deal_cards(list_of_cards):
+def deal_card():
     """
-    Randomly appends the user's and computer's lists of cards using
-    the random module.
-
-    :param list_of_cards:
-    :return None:
+    Returns a random card from the deck
     """
-    user_cards.append(random.choice(list_of_cards))
-    computer_cards.append(random.choice(list_of_cards))
+    cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
+    card = random.choice(cards)
+    return card
 
 
-def calculate_score(u_cards, c_cards):
-    user_sum = sum(user_cards)
-    computer_sum = sum(computer_cards)
-    ace = 11
+def calculate_score(cards):
+    """
+    Take a list of cards and return the score calculated from the cards
+    """
+    if sum(cards) == 21 and len(cards) == 2:
+        return 0
 
-    u_cards.sort()
-    c_cards.sort()
-    if c_cards == [10, ace]:
-        return user_sum, 0
-    elif u_cards == [10, ace]:
+    if 11 in cards and sum(cards) > 21:
+        cards.remove(11)
+        cards.append(1)
 
-        # if user_sum > 21:
-        #     if ace in u_cards:
-        #         pass
+    return sum(cards)
 
-        return 0, computer_sum
+
+def compare(u_score, c_score):
+    if c_score == 0:
+        return "You Lose, Computer has a black jack"
+    elif u_score == 0:
+        return "You win"
+    elif u_score == c_score:
+        return "Draw"
+    elif u_score > 21:
+        return "You lost, It's a bust"
+    elif c_score > 21:
+        return "You win, Computer got a bust"
     else:
-        return user_sum, computer_sum
+        if u_score > c_score:
+            return "You win"
+        else:
+            return "You lose"
 
-# Main Content
-print(logo)
 
-cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
-user_cards = []
-computer_cards = []
+def blackjack():
+    print(logo)
 
-for _ in range(2):
-    deal_cards(cards)
+    user_cards = []
+    computer_cards = []
+    is_game_over = False
+    computer_score = -1 # Since we can't set it no 0
+    user_score = -1
 
-print(user_cards)
-print(computer_cards)
-users_score, computer_score = calculate_score(user_cards, computer_cards)
-if computer_score == 0:
-    print("Computer has Blackjack. Computer WON. User Lost")
-elif users_score == 0:
-    print("User has Blackjack. User WON. Computer Lost")
-else:
-    print(f"User score is : {users_score}\nComputer score is : {computer_score}")
+    for _ in range(2):
+        user_cards.append(deal_card())
+        computer_cards.append(deal_card())
+
+    while not is_game_over:
+        user_score = calculate_score(user_cards)
+        computer_score = calculate_score(computer_cards)
+        print(f"Your cards: {user_cards}, current score: {user_score}")
+        print(f"Computer's first cards: {computer_cards[0]}")
+
+        if user_score == 0 or computer_score == 0 or user_score > 21:
+            is_game_over = True
+        else:
+            draw_new_card = input("Do you want to draw a new card ? 'Y' or 'N' -->").strip().casefold()
+            if draw_new_card in ("y", "yes"):
+                user_cards.append(deal_card())
+            elif draw_new_card in ("n", "no"):
+                is_game_over = True
+
+    while computer_score != 0 and computer_score < 17:
+        computer_cards.append(deal_card())
+        computer_score = calculate_score(computer_cards)
+
+    print("\n")
+    print(compare(user_score, computer_score))
+    print("\n")
+    print(f"User's final hand : {user_cards}, User's final score : {user_score}")
+    print(f"Computer's final hand : {computer_cards}, Computer's final score {computer_score}")
+
+
+
+while input("Do you want to play a game of Blackjack? 'Y' or 'No' -->>").casefold() == "y":
+    print("\n" * 1000)
+    blackjack()
