@@ -3,6 +3,9 @@ import random
 
 
 def set_difficulty():
+    """
+    Sets the difficulty for the game
+    """
     difficulty = input("Choose a difficulty. Type 'easy' or 'hard': ").casefold()
     if difficulty == "easy":
         return 10
@@ -12,9 +15,15 @@ def set_difficulty():
 
 
 def computer_chooses_number():
+    """
+    Chooses a random number for computer and returns it
+    """
     return random.randint(1, 100)
 
 def guessing_game():
+    """
+    makes the user play the guessing game
+    """
     is_game_over = False
 
     print(logo)
@@ -23,8 +32,6 @@ def guessing_game():
 
     no_of_attempts = set_difficulty()
     computer_choice = computer_chooses_number()
-
-
 
 
     while not is_game_over:
@@ -52,7 +59,6 @@ def guessing_game():
 start_game = True
 
 while start_game:
-    print("\n"*1000)
     if input("Do you want to play the Guessing game ?: 'Y' or 'N' --> ").casefold() in ("yes","y"):
         print("\n"*1000)
         guessing_game()
