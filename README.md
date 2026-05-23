@@ -133,3 +133,11 @@ The project for the day is <mark>The calculator project</mark>
 - [x] Scope
 - [x] namespace
 The project for the day is <mark>Number Guessing game</mark>
+
+---- 
+
+#### Day 13 - Debugging: How to find and fix error in your code
+**Topics Covered**  
+- [x] Debugging 
+
+----
