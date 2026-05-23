@@ -141,3 +141,7 @@ The project for the day is <mark>Number Guessing game</mark>
 - [x] Debugging 
 
 ----
+
+#### Day 14 - Higher Lower game project
+
+----
