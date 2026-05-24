@@ -145,3 +145,7 @@ The project for the day is <mark>Number Guessing game</mark>
 #### Day 14 - Higher Lower game project
 
 ----
+
+#### Day 15 - Coffee machine Project
+
+----
