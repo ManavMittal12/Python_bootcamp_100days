@@ -149,3 +149,10 @@ The project for the day is <mark>Number Guessing game</mark>
 #### Day 15 - Coffee machine Project
 
 ----
+
+#### Day 16 - Object-Oriented Programming 
+**Topics Covered**
+- [x] Object-Oriented Programming 
+- [x] Turtle Module
+- [x] Adding python packages
+The project for the day is <mark>Coffee Machine with OOPS</mark>
