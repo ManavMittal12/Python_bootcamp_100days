@@ -68,7 +68,7 @@ timmy.shape("turtle")
 # syntax
 # first we will tap into call objects, then we'll use the function associated with the object, which is called methods
 # my_screen.exitonclick() # will allow our program to continue running until we click on the screen.
-# our error is our turtle.
+
 
 
 # there are other methods as well

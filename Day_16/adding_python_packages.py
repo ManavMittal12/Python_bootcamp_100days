@@ -5,11 +5,11 @@
 
 # modules of code - each python file we create in our project is a module
 
-# Python Packages -  they differ from a module in the sense that it's actually a whole bunch of code that other
+# Python Packages -  they differ from a module in the sense that it's actually a bunch of code that other
 # people have written all packaged together to reach a goal or a purpose.
 
 
-# if we want to do that in ascii
+# if we want to create a table in ascii
 # we have to format it
 # and it would be painful
 
