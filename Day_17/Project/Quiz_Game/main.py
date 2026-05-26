@@ -1,11 +1,11 @@
-from data import question_data
+from data_1 import question_data
 from question_model import Question
 from quiz_brain import QuizBrain
 
 question_bank = []
 
 for qdata in question_data:
-    question_bank.append(Question(qdata["text"], qdata["answer"]))
+    question_bank.append(Question(qdata["question"], qdata["correct_answer"]))
 
 # very often, when we are getting data from the internet, we can do it like this.
 # we convert it in our objects.
