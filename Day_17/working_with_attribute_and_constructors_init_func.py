@@ -109,7 +109,7 @@ It makes it a lot quicker when making a lot of objects.
 
 remember that, when you add parameters to the constructor, that is the init function,
 you are now saying that whenever a new object is being contructed from this class, it must provide 
-thesee two peices of data shown in example. Otherwise it will give error.
+these two pieces of data shown in example. Otherwise it will give error.
 
 
 # Sometimes, we want to provide default values to start with and 
