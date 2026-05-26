@@ -12,7 +12,7 @@ class (*Keep the name of the class in Pascal case*)
 # We are creating a class for Users for a website
 # it will tell what our user's have and what they can do.
 # Everything that is going to go in the class will be indented with
-# a semicolon.
+# a colon.
 
 '''
 even though, we have nothing in our class, we can still initialize it 

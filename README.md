@@ -1,4 +1,4 @@
-  # 100 Days of Code™: The Complete Python Pro Bootcamp
+# 100 Days of Code™: The Complete Python Pro Bootcamp
 
 ----
 
@@ -156,3 +156,14 @@ The project for the day is <mark>Number Guessing game</mark>
 - [x] Turtle Module
 - [x] Adding python packages
 The project for the day is <mark>Coffee Machine with OOPS</mark>
+
+----
+
+#### Day 17 - The Quiz Project and the benefit of OOPS
+**Topics Covered**
+- [x] Working with attributes, class constructors and __init__() function
+- [x] Adding methods to a Class
+- [ ] Benefits of OOPS
+The project for the day is <mark>Quiz Project</mark>
+
+----
