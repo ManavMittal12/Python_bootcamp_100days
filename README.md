@@ -163,7 +163,15 @@ The project for the day is <mark>Coffee Machine with OOPS</mark>
 **Topics Covered**
 - [x] Working with attributes, class constructors and __init__() function
 - [x] Adding methods to a Class
-- [ ] Benefits of OOPS
+- [x] Benefits of OOPS
 The project for the day is <mark>Quiz Project</mark>
 
 ----
+
+#### Day 18 - Turtle & the Graphical User Interface (GUI)
+**Topics Covered**
+
+- [x] Turtle Graphics
+- [x] Tuples 
+- [x] Importing Modules
+The project for the day is <mark>Hirst Painting</mark>
