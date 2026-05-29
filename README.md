@@ -175,3 +175,15 @@ The project for the day is <mark>Quiz Project</mark>
 - [x] Tuples 
 - [x] Importing Modules
 The project for the day is <mark>Hirst Painting</mark>
+
+
+---- 
+
+#### Day 19 - More on Turtle Graphics, Event Listeners, State and Multiple Instances
+**Topics Covered**
+
+- [x] More on Turtle Graphics
+- [x] Event Listeners
+- [x] State
+- [x] Multiple Instances
+  The project for the day is <mark>Turtle Race</mark>
