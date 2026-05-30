@@ -176,7 +176,6 @@ The project for the day is <mark>Quiz Project</mark>
 - [x] Importing Modules
 The project for the day is <mark>Hirst Painting</mark>
 
-
 ---- 
 
 #### Day 19 - More on Turtle Graphics, Event Listeners, State and Multiple Instances
@@ -187,3 +186,11 @@ The project for the day is <mark>Hirst Painting</mark>
 - [x] State
 - [x] Multiple Instances
   The project for the day is <mark>Turtle Race</mark>
+
+----
+
+#### Day 20 & 21 - Building the snake game 
+**Topics Covered**
+- [ ] Animation & Coordinate 
+- [ ] List Slicing
+The project for the day is <mark>Snake Game</mark> 
