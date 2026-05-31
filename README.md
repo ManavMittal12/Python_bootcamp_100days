@@ -154,7 +154,8 @@ The project for the day is <mark>Number Guessing game</mark>
 **Topics Covered**
 - [x] Object-Oriented Programming 
 - [x] Turtle Module
-- [x] Adding python packages
+- [x] Adding python packages  
+
 The project for the day is <mark>Coffee Machine with OOPS</mark>
 
 ----
@@ -163,7 +164,8 @@ The project for the day is <mark>Coffee Machine with OOPS</mark>
 **Topics Covered**
 - [x] Working with attributes, class constructors and __init__() function
 - [x] Adding methods to a Class
-- [x] Benefits of OOPS
+- [x] Benefits of OOPS  
+
 The project for the day is <mark>Quiz Project</mark>
 
 ----
@@ -173,7 +175,8 @@ The project for the day is <mark>Quiz Project</mark>
 
 - [x] Turtle Graphics
 - [x] Tuples 
-- [x] Importing Modules
+- [x] Importing Modules  
+
 The project for the day is <mark>Hirst Painting</mark>
 
 ---- 
@@ -184,13 +187,16 @@ The project for the day is <mark>Hirst Painting</mark>
 - [x] More on Turtle Graphics
 - [x] Event Listeners
 - [x] State
-- [x] Multiple Instances
-  The project for the day is <mark>Turtle Race</mark>
+- [x] Multiple Instances  
+
+The project for the day is <mark>Turtle Race</mark>
 
 ----
 
 #### Day 20 & 21 - Building the snake game 
 **Topics Covered**
-- [ ] Animation & Coordinate 
-- [ ] List Slicing
+- [x] Animation & Coordinate 
+- [x] Inheritance
+- [x] List Slicing  
+
 The project for the day is <mark>Snake Game</mark> 
