@@ -8,7 +8,7 @@
     - [x] tidy up the code
 3. Control the snake
     - [X] Going to control with up down left and right keys 
-4. Detect Collision with food 
+4. Detect Collision with food
 5. Create a scoreboard 
 6. Detect collision wall 
 7. Detect Collision with Tail.

@@ -13,16 +13,20 @@ class Snake:
         self.create_a_snake()
         self.head = self.my_snake[0]
 
+    # These two functions will create our snake
     def create_a_snake(self):
         """
         Creates a Snake body when initialized
         """
-        for axis in STARTING_POSITIONS:
-            snake_body = Turtle(shape="square")
-            snake_body.color("white")
-            snake_body.penup()
-            snake_body.goto(axis)
-            self.my_snake.append(snake_body)
+        for position in STARTING_POSITIONS:
+            self.add_segment(position)
+
+    def add_segment(self, position):
+        snake_body = Turtle(shape="square")
+        snake_body.color("white")
+        snake_body.penup()
+        snake_body.goto(position)
+        self.my_snake.append(snake_body)
 
 
     def move(self):
@@ -54,3 +58,10 @@ class Snake:
     def right(self):
         if self.head.heading() != LEFT:
             self.head.setheading(RIGHT)
+
+
+
+
+    def extend_snake(self):
+        # add a new segment to the snake
+        self.add_segment(self.my_snake[-1].position())
