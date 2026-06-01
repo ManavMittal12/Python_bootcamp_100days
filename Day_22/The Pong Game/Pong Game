@@ -1,0 +1,23 @@
+# The Pong Game
+
+# Breaking Down the problem
+
+-- Create a screen of 600 x 600 resolution
+-- We need to create two boards
+-- Each controlled by a used
+-- Create a ball
+-- Create a dotted line separating the pong board
+-- Need a score board for each player
+
+
+
+-- Broken by Angela
+-------------------------------------------------
+-- Create the screen
+-- Create and move a paddle
+-- Create another paddle
+-- Create the ball and make it move
+-- Detect Collision with wall and bounce it back
+-- Detect collision with paddle
+-- Detect when paddle misses
+-- Keep Score
