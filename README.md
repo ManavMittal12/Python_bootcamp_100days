@@ -200,3 +200,9 @@ The project for the day is <mark>Turtle Race</mark>
 - [x] List Slicing  
 
 The project for the day is <mark>Snake Game</mark> 
+
+----
+
+#### Day 22 - Building Pong: Arcade Game**
+
+The project for the day is <mark>The Pong Game</mark>
