@@ -9,7 +9,7 @@ class Paddle(Turtle):
         self.goto(x=x_pos, y=0)
 
 
-
+    
     def up(self):
         self.goto(x=self.xcor(), y=self.ycor() + 20)
 
