@@ -206,3 +206,9 @@ The project for the day is <mark>Snake Game</mark>
 #### Day 22 - Building Pong: Arcade Game**
 
 The project for the day is <mark>The Pong Game</mark>
+
+---- 
+
+#### Day 23 - Capstone Project : Turtle Crossing Game
+
+The project for the day is <mark>Turtle Crossing Game</mark>
