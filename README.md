@@ -218,6 +218,6 @@ The project for the day is <mark>Turtle Crossing Game</mark>
 #### Day 24 - Files, Directories and Paths
 **Topics Covered**
 - [x] working with file system
-- [ ] Know how directories work 
+- [x] Know how directories work 
 
 The project for the day is <mark>Mail Merge Project</mark>
