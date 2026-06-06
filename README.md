@@ -221,3 +221,13 @@ The project for the day is <mark>Turtle Crossing Game</mark>
 - [x] Know how directories work 
 
 The project for the day is <mark>Mail Merge Project</mark>
+
+
+----
+
+#### Day 25 - Working with CSV Data and the Pandas Library
+**Topics Covered**
+- [x] Working with CSV files 
+- [x] Analyzing Data with Pandas 
+
+The project for the day is <mark>US States game</mark>
