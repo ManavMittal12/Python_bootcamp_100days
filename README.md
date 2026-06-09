@@ -231,3 +231,13 @@ The project for the day is <mark>Mail Merge Project</mark>
 - [x] Analyzing Data with Pandas 
 
 The project for the day is <mark>US States game</mark>
+
+----
+
+#### Day 26 - List and Dictionary Comprehension
+**Topics Covered**
+- [ ] List Comprehension
+- [ ] Dictionary Comprehension
+- [ ] How to Iterate over a Pandas DataFrame
+
+The project for the day is <mark>NATO Alphabet Project</mark>
