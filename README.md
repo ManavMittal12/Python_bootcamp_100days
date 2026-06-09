@@ -241,3 +241,16 @@ The project for the day is <mark>US States game</mark>
 - [x] How to Iterate over a Pandas DataFrame
 
 The project for the day is <mark>NATO Alphabet Project</mark>
+
+----
+
+#### Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
+**Topics Covered**
+1) Advanced Functions
+    1) Default Arguments
+       - [ ] *Args
+       - [ ] **Kwargs
+2) GUI
+    - [ ] Tkinter
+
+The project for the day is <mark>Unit Converter using Tkinter</mark>
