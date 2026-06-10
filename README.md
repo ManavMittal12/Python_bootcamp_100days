@@ -248,9 +248,9 @@ The project for the day is <mark>NATO Alphabet Project</mark>
 **Topics Covered**
 1) Advanced Functions
     1) Default Arguments
-       - [ ] *Args
-       - [ ] **Kwargs
+       - [x] *Args
+       - [x] **Kwargs
 2) GUI
-    - [ ] Tkinter
+    - [x] Tkinter
 
 The project for the day is <mark>Unit Converter using Tkinter</mark>
