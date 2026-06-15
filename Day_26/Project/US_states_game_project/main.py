@@ -3,9 +3,6 @@ from turtle import Turtle
 import pandas
 import turtle
 
-from pandas.core.interchange.dataframe_protocol import DataFrame
-
-from Day_25.US_STATES_GAME.main import missed_states
 
 screen = turtle.Screen()
 screen.title("US States game")
