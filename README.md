@@ -254,3 +254,12 @@ The project for the day is <mark>NATO Alphabet Project</mark>
     - [x] Tkinter
 
 The project for the day is <mark>Unit Converter using Tkinter</mark>
+
+----
+
+#### Day 28 - Tkinter, Dynamic Typing and the pomodoro GUI application
+**Topics Covered**
+- [x] Tkinter
+- [x] Dynamic Typing 
+
+The project for the day is <mark>pomodoro GUI</mark>
