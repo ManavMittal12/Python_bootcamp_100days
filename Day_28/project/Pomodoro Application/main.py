@@ -81,11 +81,11 @@ def count_down(count):
         timer = window.after(1000, count_down, count-1)   # time in milliseconds to wait
     else:
         start_timer()
-        mark = ""
+        marks = ""
         work_session = reps // 2
         for _ in range(work_session):
-            mark = "✔"
-            checkmarks.config(text=mark)
+            marks += "✔"
+        checkmarks.config(text=marks)
 
 # ---------------------------- UI SETUP ------------------------------- #
 window = Tk()
