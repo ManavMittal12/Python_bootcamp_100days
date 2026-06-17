@@ -263,3 +263,9 @@ The project for the day is <mark>Unit Converter using Tkinter</mark>
 - [x] Dynamic Typing 
 
 The project for the day is <mark>pomodoro GUI</mark>
+
+----
+
+#### Day 29 - Building a Password Manager GUI app with Tkinter.
+
+the project for the day is <mark>Password Manager GUI</mark>
