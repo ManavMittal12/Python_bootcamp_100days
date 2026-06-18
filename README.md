@@ -275,7 +275,7 @@ the project for the day is <mark>Password Manager GUI</mark>
 #### Day 30 - Errors, Exceptions and JSON data: Improving the password
 **Topics Covered**
 - [x] Errors
-- [ ] Exceptions
-- [ ] Raise Your own exception
+- [x] Exceptions
+- [x] Raise Your own exception
 - [ ] Saving JSON Data
   the project for the day is <mark>Improving Password Manager GUI</mark>
