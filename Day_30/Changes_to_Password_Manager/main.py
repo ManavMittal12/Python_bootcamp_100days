@@ -67,7 +67,16 @@ def save():
             password_entry.delete(0, END)
 
 
-
+def search():
+    website = website_entry.get()
+    try:
+        with open("data.json") as user_data:
+            current_dataset = json.load(user_data)
+        messagebox.showinfo(title=f"{website}", message=f"Email: {current_dataset[website]["email"]}\n Password: {current_dataset[website]["password"]}")
+    except KeyError:
+        messagebox.showerror(title="Data Not Found!", message="Can't find this website in the database.")
+    except FileNotFoundError:
+        messagebox.showerror(title="Error", message="No Datafile found.")
 
 # ---------------------------- UI SETUP ------------------------------- #
 
@@ -83,8 +92,9 @@ website_label = Label(text="Website:")
 website_label.grid(column=0, row=1)
 website_entry = Entry()
 website_entry.focus()
-website_entry.grid(column=1, row=1, columnspan=2,  sticky="EW")
-
+website_entry.grid(column=1, row=1, sticky="EW")
+search_button = Button(text="Search", command=search)
+search_button.grid(column=2, row=1,  sticky="EW")
 
 email_user_label = Label(text="Email/Username:")
 email_user_label.grid(column=0, row=2)
