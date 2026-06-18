@@ -277,5 +277,5 @@ the project for the day is <mark>Password Manager GUI</mark>
 - [x] Errors
 - [x] Exceptions
 - [x] Raise Your own exception
-- [ ] Saving JSON Data
+- [x] Saving JSON Data
   the project for the day is <mark>Improving Password Manager GUI</mark>
