@@ -10,9 +10,7 @@ current_month = today.month
 
 
 def create_a_letter():
-    letters_database = ["letter_templates/letter_1.txt", "letter_templates/letter_2.txt", "letter_templates/letter_3.txt"]
-    select_letter = random.choice(letters_database)
-    with open(select_letter) as birthday_letter:
+    with open(f"letter_templates/letter_{random.randint(1,3)}.txt") as birthday_letter:
         letter = birthday_letter.read().replace("[NAME]", current_info["name"])
     return letter
 
