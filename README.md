@@ -277,11 +277,22 @@ the project for the day is <mark>Password Manager GUI</mark>
 - [x] Errors
 - [x] Exceptions
 - [x] Raise Your own exception
-- [x] Saving JSON Data
-  the project for the day is <mark>Improving Password Manager GUI</mark>
+- [x] Saving JSON Data 
+
+the project for the day is <mark>Improving Password Manager GUI</mark>
 
 ----
 
 #### Day 31 - Capstone Project - Flash Cards
 
 the project for the day is <mark>Flash Cards</mark>
+
+----
+
+#### Day 32 - Email (smtplib) & Manage Dates (datetime)
+**Topics Covered**
+
+- [x] Email SMTP
+- [x] datetime module
+
+the project for the day is <mark>Automated Birthday Wisher</mark>
