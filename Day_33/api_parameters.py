@@ -29,7 +29,7 @@ parameters = {
     "tzid" : "Asia/Kolkata"
 }
 
-response = requests.get(url=f"https://api.sunrise-sunset.org/json?lat={MY_LAT}&lng={MY_LONG}", params=parameters)
+response = requests.get(url=f"https://api.sunrise-sunset.org/json", params=parameters)
 response.raise_for_status()
 data = response.json()
 sunrise = data["results"]["sunrise"].split("T")[1].split(":")[0]
