@@ -1,0 +1,30 @@
+# Understanding Environment variables and hiding the API key
+# in windows
+dir Env:
+in terminal
+
+
+# on mac
+env
+in terminal
+
+
+# when we type this, we see a whole bunch of variables
+# there are variables and their values
+# there are called environment variables
+
+
+# they are used for convenience and security
+# we might be uploading our code base somewhere, and it's not a good idea
+# to save authentication keys or api keys in the code base,
+# that's where the environment variables comes in.
+
+# allows us to separate out where we store our keys, secret stuff and
+# various other variables from where our codebase is located.
+
+# we can create an environment variable by simply typing
+export "nameofthevariable"=thevaluewewanttostore
+# without the spaces
+
+
+# check the method for windows.
