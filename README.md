@@ -305,3 +305,11 @@ the project for the day is <mark>Automated Birthday Wisher</mark>
 - [x] Learning about Application Programming Interface
 - [x] Using API 
 the project for the is <mark>ISS Tracker</mark>
+
+----
+
+#### Day 34 - API Practice - Creating a GUI Quiz App
+**Topics Covered**
+- [x] Trivia API and The Quizzler App
+- [x] HTML Entities
+- [x] Python Type Hinting
