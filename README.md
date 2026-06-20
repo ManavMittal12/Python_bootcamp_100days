@@ -296,3 +296,12 @@ the project for the day is <mark>Flash Cards</mark>
 - [x] datetime module
 
 the project for the day is <mark>Automated Birthday Wisher</mark>
+
+----
+
+#### Day 33 - Application Programming Interface
+**Topics Covered**
+
+- [x] Learning about Application Programming Interface
+- [ ] Using API 
+the project for the is <mark>ISS Tracker</mark>
