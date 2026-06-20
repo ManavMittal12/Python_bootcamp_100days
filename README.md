@@ -313,3 +313,16 @@ the project for the is <mark>ISS Tracker</mark>
 - [x] Trivia API and The Quizzler App
 - [x] HTML Entities
 - [x] Python Type Hinting
+
+the project for the is <mark>Quizzler App</mark>
+
+----
+
+#### Day 35 - Keys, Authentication & Environment Variables : Send SMS
+**Topics Covered**
+- [x] API Keys 
+- [x] Authentication 
+- [x] Environment Variables
+- [x] Sending SMS
+
+the project for the is <mark>Weather Tracker</mark>
