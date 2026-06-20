@@ -303,5 +303,5 @@ the project for the day is <mark>Automated Birthday Wisher</mark>
 **Topics Covered**
 
 - [x] Learning about Application Programming Interface
-- [ ] Using API 
+- [x] Using API 
 the project for the is <mark>ISS Tracker</mark>
