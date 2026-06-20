@@ -1,0 +1,5 @@
+When we are retrieving data from the API call, we can see HTML entities,
+we are going to learn to unescape the HTML entities.
+
+we are going to use the htmp module and use
+html.unescape()
