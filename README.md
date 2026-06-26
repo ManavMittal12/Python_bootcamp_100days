@@ -304,7 +304,7 @@ the project for the day is <mark>Automated Birthday Wisher</mark>
 
 - [x] Learning about Application Programming Interface
 - [x] Using API 
-the project for the is <mark>ISS Tracker</mark>
+the project for the day is <mark>ISS Tracker</mark>
 
 ----
 
@@ -325,4 +325,10 @@ the project for the is <mark>Quizzler App</mark>
 - [x] Environment Variables
 - [x] Sending SMS
 
-the project for the is <mark>Weather Tracker</mark>
+the project for the day is <mark>Weather Tracker</mark>
+
+----
+
+#### Day 36 - Stock Trading News alert project 
+
+the project for the day is <mark>Stock Trading News Alert</mark>
