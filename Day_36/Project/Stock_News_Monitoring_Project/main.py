@@ -77,7 +77,7 @@ percentage_diff = get_stock()
 my_email = "iambatman@batcave.com"
 with open("D:/python_google.txt") as pass_file:
     password = pass_file.read()
-if percentage_diff > .100:
+if percentage_diff > 5:
     for news in get_company_news():
         msg = f"Subject: {news[0]}\n\nOur stock: {STOCK} has percentage change of about {percentage_diff}% \n\nHere are some news articles -->\n{news[1]}"
         with smtplib.SMTP("smtp.gmail.com", port=587) as connection:
