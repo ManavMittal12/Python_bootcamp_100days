@@ -3,3 +3,6 @@
 
 # Python Virtual Environment
 .venv314/
+
+# environment variables
+Day_39&40/.env
