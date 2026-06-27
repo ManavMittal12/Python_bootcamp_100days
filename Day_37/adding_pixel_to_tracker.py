@@ -1,6 +1,6 @@
 # Adding pixel to our data.
 import requests
-
+from datetime import datetime
 
 USERNAME: str = "kakashiofthesharingan"
 TOKEN: str  = "(sd234as14/!@41241"
@@ -13,8 +13,12 @@ header: dict[str, str] = {
 
 pixel_endpoint: str = f"https://pixe.la/v1/users/{USERNAME}/graphs/{GRAPH_ID}"
 
+# using datetime, we get the current datetime.
+today = datetime.now().strftime("%Y%m%d")
+
+
 pixel_config: dict[str, str] = {
-    "date" : "20260627",
+    "date" :today,
     "quantity": "10",
 }
 
