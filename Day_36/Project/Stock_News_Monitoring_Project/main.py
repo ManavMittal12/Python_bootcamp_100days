@@ -15,7 +15,7 @@ def get_stock():
     with open("D:/Computer_Science_Learning_Material/api_keys/alphavantage_api.txt") as stock_api_file:
         stock_api = stock_api_file.read()
 
-    with requests_cache.enabled('stock_cache.db'):
+    # with requests_cache.enabled('stock_cache.db'):
         parameters = {
             "function" : "TIME_SERIES_DAILY",
             "apikey" : stock_api,
