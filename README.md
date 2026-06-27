@@ -332,3 +332,14 @@ the project for the day is <mark>Weather Tracker</mark>
 #### Day 36 - Stock Trading News alert project 
 
 the project for the day is <mark>Stock Trading News Alert</mark>
+
+
+----
+
+#### Day 37 - API Post Request & Header 
+**Topics Covered**  
+- [X] Advanced Authentication Methods using header
+- [X] POST, PUT and DELETE request using request module.
+- [X] Pixela API for project 
+
+the project for the day is <mark>Habit Tracker Project</mark>
