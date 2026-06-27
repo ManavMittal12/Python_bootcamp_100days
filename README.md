@@ -333,7 +333,6 @@ the project for the day is <mark>Weather Tracker</mark>
 
 the project for the day is <mark>Stock Trading News Alert</mark>
 
-
 ----
 
 #### Day 37 - API Post Request & Header 
@@ -343,3 +342,11 @@ the project for the day is <mark>Stock Trading News Alert</mark>
 - [X] Pixela API for project 
 
 the project for the day is <mark>Habit Tracker Project</mark>
+
+----
+
+#### Day 38 - Workout Tracking using Google Sheets 
+**Topics Covered**
+- [x] Working with Google Sheets 
+ 
+the project for the day is <mark>Workout tracking using Google Sheets</mark>
