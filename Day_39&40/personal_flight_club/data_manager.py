@@ -25,4 +25,16 @@ class DataManager:
         :return a list of places on bucketlist:
         """
         response = requests.get(url=self._sheety_api_endpoint, headers=self._header)
-        return response.json()
+        return response.json()[self._sheet_name]
+
+    def update_lowest_price(self, row_id, new_price):
+        new_data = {
+            "price": {
+                "lowestPrice": new_price
+            }
+        }
+        requests.put(
+            url=f"{self._sheety_api_endpoint}/{row_id}",
+            json=new_data,
+            auth=self._header
+        )
