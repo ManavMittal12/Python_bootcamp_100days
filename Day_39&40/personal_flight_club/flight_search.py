@@ -12,17 +12,15 @@ class FlightSearch:
     """
     This class is responsible for talking to the Flight Search API.
     """
-
-
     def __init__(self):
         self._api_key = os.getenv("API_KEY")
 
 
-    def check_flights(self, origin_city_code="", destination_city_code="", from_time=None, to_time=None):
+    def check_flights(self, origin_city_code, destination_city_code, from_time, to_time):
         param = {
             "engine": "google_flights",
-            "departure_id": "LHR",
-            "arrival_id": "CDG",
+            "departure_id": origin_city_code,
+            "arrival_id": destination_city_code,
             "outbound_date": from_time,
             "return_date": to_time,
             "type": "1",
