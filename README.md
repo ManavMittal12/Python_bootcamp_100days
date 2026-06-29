@@ -350,3 +350,10 @@ the project for the day is <mark>Habit Tracker Project</mark>
 - [x] Working with Google Sheets 
  
 the project for the day is <mark>Workout tracking using Google Sheets</mark>
+
+----
+
+#### Day 39 & Day 40 -- Flight Finder & Flight Club
+
+- [x] Flight Finder 
+- [ ] Flight Club - TODO
