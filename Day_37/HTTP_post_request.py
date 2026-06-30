@@ -24,7 +24,6 @@
 
 
 import requests
-from urllib3.util import url
 
 user_params = {
     "token" : "(sd234as14/!@41241",
