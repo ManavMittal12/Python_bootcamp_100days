@@ -357,3 +357,16 @@ the project for the day is <mark>Workout tracking using Google Sheets</mark>
 
 - [x] Flight Finder 
 - [ ] Flight Club - TODO
+
+
+----
+
+#### Day 41 - Web Foundation - Introduction to HTML 
+**Topics Covered**
+
+- [ ] What is HTML ?
+- [ ] HTML Heading Elements
+- [ ] HTML Paragraph Elements 
+- [ ] Self Closing Tags
+
+the project for the day is <mark>Movie Ranking</mark>
