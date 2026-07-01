@@ -364,9 +364,22 @@ the project for the day is <mark>Workout tracking using Google Sheets</mark>
 #### Day 41 - Web Foundation - Introduction to HTML 
 **Topics Covered**
 
-- [ ] What is HTML ?
-- [ ] HTML Heading Elements
-- [ ] HTML Paragraph Elements 
-- [ ] Self Closing Tags
+- [x] What is HTML ?
+- [x] HTML Heading Elements
+- [x] HTML Paragraph Elements 
+- [x] Self Closing Tags
 
 the project for the day is <mark>Movie Ranking</mark>
+
+----
+
+#### Day 42 - Web Foundation - Intermediate to HTML 
+**Topics Covered**
+
+- [ ] HTML Boilerplate
+- [ ] The list element
+- [ ] Nesting and Indentation
+- [ ] Anchor Elements 
+- [ ] Image Elements 
+
+the project for the day is <mark>Birthday Invite Website</mark>
