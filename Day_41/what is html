@@ -1,0 +1,23 @@
+What is HTML? 
+
+NO matter what browser we use, all of the applications do the same thing 
+they take different files 
+and render them into website
+
+we can't just create a website using javascript or css but we can 
+create a website using only html 
+
+html defines the contents and structures of a website
+
+
+what exactly is html? 
+
+HyperText markup language 
+
+HyperText - peices of text that can be linked to other documents in the website. (hyper links)
+
+Markup Language - "This is a quote", the presence of quotation mark tells the user that this is a quote 
+so, we mark and show different things, that is called markup langauage. 
+
+it's done thru html tags in html
+
