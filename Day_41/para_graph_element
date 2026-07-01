@@ -1,0 +1,19 @@
+The Paragraph Element 
+
+this is what a paragraph element looks like.
+
+<p>This is a paragraph</p>
+# the paragraph remains on the same lines if in the same element.
+
+# Do and don't of void element
+sometimes people when seperating paragraphs don't seperate the content on different paragraph element, but rather 
+use the break tag.
+
+
+Sometimes hr element or break element are representing without forward slash, that is 
+perfectly valid rule.
+
+after html5, html has stopped looking at the / element 
+but it's recommended to use forward slash to know that it's a void element.
+
+

@@ -1,0 +1,24 @@
+Heading Element 
+
+heading elements use a opening tag and a closing tag 
+
+<h1>Comtent of the heading </h1>
+
+
+# tags vs elements 
+
+### tags - refers to bits in the angle brackets(<>) --> opening tags <>, closing tags </>
+
+
+### what is the element? 
+
+#### this whole thing is an elements
+<h1>helloworld</h1>
+
+
+
+# Do's and Don'ts --> 
+# it's not a good practice to have more that H1 
+# don't skip a level when creating heading elements 
+
+mozila web docs ais a good resource to find the elements. 
