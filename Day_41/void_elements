@@ -1,0 +1,15 @@
+Void Elements 
+- Elemets that have it forbidden to have any content inside the tags and the tag itself even looks very different.
+
+
+# it has a forward slash in the end of the tag 
+<hr /> - horizontal elements
+
+
+
+
+<br /> - break element - looks like <br />
+there's only a single tag 
+
+break elements is useful when you want to seperate things in the seperate lines 
+it can go inside the paragraphs.
