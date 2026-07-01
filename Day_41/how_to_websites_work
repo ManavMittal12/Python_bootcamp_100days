@@ -1,0 +1,17 @@
+# How do websites work?
+
+# websites are accessed using browsers
+
+# We get usually three types of files when we request a server to access it.
+#  1) HTML - hyper text markup language
+is responsible for the structure our website.
+
+# if website was a house, html would be the builder, who would setup the walls,
+toilet and other things, basically, they establish the structure of the house.
+when we write the html, we create the structure of our house
+
+# 2) CSS - Cascading Style Sheets - they would be the decorators of the house,
+they would be painters or stylists. they help look the website good
+
+# 3) JS - Javascript - that allows our website to do things or have a behavior
+# they would be electricians or plumbers who make things work.
