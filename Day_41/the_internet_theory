@@ -13,3 +13,17 @@ these computer attached to the internet have special jobs
 # they serve us all the data and file we need to be able to access and interact
 # with certain websites. These computers are called Servers and any computer
 # that the users use to access the internet is called the client.
+
+# A webserver is like a giant library that is open 4/7 and request for any website
+# we want to access, and it will serve us with all the files and data we need to view whatever website we want.
+
+
+# when we type a url link, browser sends it to ISP (internet service provider), the message
+# we send to isp, it will route to a DNS server (Domain Name System server), and the DNS server is
+# essentially just a souped us phone book, when we make the request through the browser, the
+# DNS server will look up the address of the website that we're trying to access.
+# Every single computer connected to the internet have an IP address, it's like a postal code for your computer
+# SO when people need to send or receive files from the internet, each computer can be
+# located and contacted using their unique IP address, once DNS server finds the IP address, it sends it back to the
+# browser via the ISP. Then we can make a direct request to the address servers.
+ 
