@@ -1,0 +1,98 @@
+How to add CSS?
+
+There are three ways in which we can add css.
+
+1) Inline - <tag style="css" />
+2) Internal - <style>css<style>
+3) External - <link href="style.css">
+
+These are the different styles
+
+--------------------------------------------------------------------------------------------------
+
+# Inline Style of adding css
+-- It goes into the same line as a particular HTML element
+
+eg:
+<html style = "background: blue">
+</html>
+
+In this case, the inline css goes into the opening tag of the html, we got a style attribute
+which is globally availably, and any tag we can add style attribute too
+
+it goes like this
+<all tags name of the style = value>
+value is in two parts
+property we wanna change and the value separated by a color.
+
+inline elements are useful to add css to single element to our page.
+
+It's not normally recommended to use inline
+
+
+--------------------------------------------------------------------------------------------------
+
+Internal CSS --
+This is done through a special HTML tag called the style element,
+we got an open & closing style tag, and in between those two lines, we add
+all our css
+
+eg -> this is our css
+html{
+     background: red;
+    }
+
+
+<html>
+    <head>
+        <style>
+            html{
+                background: red;
+            }
+        </style>
+    </head>
+</html>
+
+previously we have it in our tag, this one is extra, here, our internal style can be applied inside html document to any element.
+what we have to add in edition is a selector, this selector comes before a set of curly braces and the css
+comes within the curly braces.
+{
+    css
+}
+like this.
+
+our internal styling can be applied to anywhere in our HTML document, and inside we can target or select
+as many elements as we want.
+
+The code is limited in the html that it sits in, which means that if we have a multi page
+website, then we probably shouldn't be using the internal style.
+
+Instead
+-------------------------------------------------------------------------------------------------
+
+We should use external styling CSS
+
+External CSS --
+
+The biggest difference between the external, and the internal, and inline styles is that this
+actually lives in a completely separate file. eg. main.css, styles.css, which as a .css as extension.
+
+Inside the css, we write out css rules,
+
+we got the selector, the properties, values and many many things.
+
+
+we have to link up the html and css
+inside the head section, we add a link element,
+
+eg
+<link
+    rel="stylesheet"    # tells the relationship
+    href="./styles.css" # tells the location of the css
+/>
+
+This style is most commonly using in html,
+
+inline is useful for targetting single element
+internal is useful for single webpage
+external is useful when we have multiple files and websites, most often used method of styling 
