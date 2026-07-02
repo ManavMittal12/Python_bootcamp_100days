@@ -389,4 +389,21 @@ the project for the day is <mark>Birthday Invite Website</mark>
 #### Day 43 - Web Foundation - Introduction to CSS
 **Topics Covered**
 
-- [ ] 
+- [x] Why do we need CSS?
+- [ ] How to add CSS
+- [ ] CSS Selector
+
+The project for the day is <mark>Color Vocab Website</mark>
+
+
+----
+
+#### Day 44 - Web Foundation - Intermediate CSS 
+**Topics Covered**
+
+- [ ] CSS Colors 
+- [ ] Font properties
+- [ ] Inspecting CSS
+- [ ] The CSS Box Model - Margin, Padding, and Border
+
+The project for the day is <mark>Motivational Poster Website</mark>
