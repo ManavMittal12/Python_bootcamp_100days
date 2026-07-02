@@ -1,0 +1,23 @@
+What is CSS and why do we need it ?
+
+CSS - Cascading Style Sheets
+
+Cascade - you can conjure a pic of cascade, it's like waterfall. The way the styles are applied cascades like
+a waterfall. We start from the most general all the way down to the most specific styling requirements.
+
+
+Style Sheets - is a type of language, similarly how we have html that is markup language
+is a language that specifies how things should look in our website.
+There are other types of Style Sheets
+- CSS - most important one is css
+- Sass - syntactically awesome style sheet
+- Less - Leaner CSS
+- many others
+
+
+why do we need css?
+developers wanted to style their website but html was very limited in that
+sense.
+
+previously styling was done in html itself, but it cluttered the html file, it's deprecated now,
+then css was introduced, which can be attached the style sheet to the html file components.
