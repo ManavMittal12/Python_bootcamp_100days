@@ -1,0 +1,130 @@
+CSS Selectors
+
+helps us choose where to apply our css.
+
+We've seen that we can create css rules by simply specifying two things,
+oen is the property we wanna change and after the color we get to specify the value
+of the property
+
+eg: color: blue
+we are saying, we want to change the color to blue color
+
+
+h1{ <----- this is called a CSS selector
+    color : blue
+}
+
+what is a css selector?
+it's the part that selects the html in order to apply whichever rules go into the
+curly braces.
+
+this style of selector is the simplest css selector
+it's called the element selector.
+
+Element Selector
+
+when we select elements selector
+like
+p
+a
+h2
+h1,
+it means, apply to all the elements that have that particular tag.
+
+Class Selector
+eg.
+
+.red-heading{
+    color: red
+}
+
+this requires a special symbol which is dot, after the dot without the spaces
+is class name eg red-heading, after the curly braces, we apply the css rules
+
+
+what is a class ?
+A class is something that we can add as an attribute to any HTML element
+and this attribute is kinda like saying, let's group these particular elements in class
+used to group elements to apply the same css rules to all the elements
+in that class.
+
+how to we set a class
+
+<h1 class="red-text">Red</h1>
+
+and when we write css and target the class
+then
+
+.red-text{ <- have to be spelled same as the class name
+    color:red;
+}
+
+then it selects the only element that has the class name same as that we
+specified in the class selector
+and applies the css style
+
+this can be really useful on multi-page websites with lots of different elements,
+and you don't just want to select a particular type of HTML element.
+
+
+
+# ID selector
+is has it's own special symbol (#)
+
+#main{
+    color:red
+}
+this selects all the element with a particular id attribute
+
+
+eg
+<h2 id="main">Red</h2>
+works similarly to class selector
+
+difference between class vs id
+- class selector can be applied to many element
+- id can be applied on one element in a single html file
+
+
+# Attribute Selector
+Another way that you can select parts of your html is using the attribute selector
+so we know that we can create a html tag and add as many attributes we like
+
+# we can select these elements that have particular attributes or particular attributes values
+by using this notation
+
+first part is html element, then set of square brackets and the attribute we wanna select
+this says, select all the paragraphs with attribute draggable and apply the css to it
+
+p[draggable]{
+    color: red
+}
+
+
+eg
+<p draggable="true">Drag me</p>
+<p>Don't drag me</p>
+<p>Don't drag me</p>
+
+if we give the css style, it will find the unique paragraph with that attribute
+and apply the css to it.
+
+we can also select the value of the attribute we want our css to attach to
+<p draggable="true">Drag me</p>
+<p draggable="false">Don't drag me</p>
+<p draggable="false">Don't drag me</p>
+
+
+# it will select all the para elements with draggable as false
+p[draggable="false"]{
+    color: red
+}
+
+
+# Universal Selector
+
+*{
+    color: red
+}
+it's just an asterix and after the asterix you have your css rule,
+it means select all. it will apply the style to everything where the style sheet is active.
