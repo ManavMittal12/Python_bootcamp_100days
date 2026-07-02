@@ -390,8 +390,8 @@ the project for the day is <mark>Birthday Invite Website</mark>
 **Topics Covered**
 
 - [x] Why do we need CSS?
-- [ ] How to add CSS
-- [ ] CSS Selector
+- [x] How to add CSS
+- [x] CSS Selector
 
 The project for the day is <mark>Color Vocab Website</mark>
 
