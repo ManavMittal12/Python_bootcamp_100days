@@ -376,10 +376,17 @@ the project for the day is <mark>Movie Ranking</mark>
 #### Day 42 - Web Foundation - Intermediate to HTML 
 **Topics Covered**
 
-- [ ] HTML Boilerplate
-- [ ] The list element
-- [ ] Nesting and Indentation
-- [ ] Anchor Elements 
-- [ ] Image Elements 
+- [x] HTML Boilerplate
+- [x] The list element
+- [x] Nesting and Indentation
+- [x] Anchor Elements 
+- [x] Image Elements 
 
 the project for the day is <mark>Birthday Invite Website</mark>
+
+----
+
+#### Day 43 - Web Foundation - Introduction to CSS
+**Topics Covered**
+
+- [ ] 
