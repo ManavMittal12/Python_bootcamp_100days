@@ -1,0 +1,29 @@
+body{
+    background: black;
+}
+#content-div{
+    height: 800px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+#dave{
+    border: 5px solid white;
+    align-items: center;
+    width: 100%;
+}
+#quote{
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    font-weight: 700;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+}
+#quote1{
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
