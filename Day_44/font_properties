@@ -1,0 +1,79 @@
+CSS - Font Properties
+
+there are many other font properties like
+color
+font-weight
+font-size
+font-family
+
+
+what does 20 px font size means ?
+
+1 px is 1/96th inch size - pixel -- 0.26mm
+1 pt is 1/72nd inch - called a point  -- 0.35mm
+
+
+point is used in many applications, like in ms words when we select size of font
+
+there are other ways of representing font size
+
+1em - 100 % of parent - one fill with of letter m, it means that when we set a h1 with 1em,
+it means, if it had a parent, (eg body tag) and it's body had a font size of 20px, then h1 will be 100%
+of the font size, is 2pm, means 2 times of parent size. (It's a relative size)
+
+1rem - closely related to em, it's now relative to the root of the html file
+
+using rem is much more recommended.
+
+
+
+
+------------------------------------------------------------------------------
+
+Font Weight
+
+
+
+there are normal and bold
+
+and there are other too
+
+Keyword
+normal bold
+
+
+
+Relative to Parent
+lighter
+bolder
+
+Number
+100 - 900
+
+
+
+
+---------------------------------------------------------------------------
+
+Font Family
+
+it determines how we want our font to look like
+
+eg
+h1{                             this after, is our backup font in case the first one is not working, this is a generic font
+    font-family : Helvetica, sans-serif
+}
+
+it the font name has multiple words
+h1
+    font-family: "Times New Roman", sherif
+}
+
+we can get a complete recustomed font, we can go to fonts.google.com0
+
+---------------------------------------------------------------------------
+
+Text Align
+
+we can set if to center, left and right,
+and we got value like start to edn
