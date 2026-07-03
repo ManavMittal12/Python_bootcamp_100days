@@ -1,0 +1,82 @@
+CSS BOX Model - Margin, padding and border
+
+The concept box model has
+- Margin
+- Padding
+- Border
+- height
+- weight
+
+concepts
+
+what is it ?
+each element is a box in itself, we can change the dimensions of these boxes
+and decide how they are laid out on the screen.
+
+we can use pixels or percentages to change the size of the box,
+the box moves the other elements.
+
+border can take three values seperated with space
+border : 10px(thickness of the border) solid(style of the border) black(color of the border);
+
+these are the three items that together determine what the border looks like
+
+the height and width of the box does not change when we change the border,
+the border goes outwards
+
+we can provide more specific rules
+
+border : 30px solid black;
+    border-top: 0px;
+
+
+this border width works similarly as the border property works
+
+              1    2    3    4
+border-width: 0px 10px 20px 30px;
+
+
+                  1
+        --------------------
+        |                   |
+        |                   |
+4       |                   |       2
+        |                   |
+        |                   |
+        ---------------------
+                  3
+
+it goes in clockwise
+we can also give two values to the border-width property
+
+{
+    border-width : 20px 10px
+}
+
+it would then set 1+3 and 2+4
+
+
+## Padding
+Imagine a box is a paragraph element
+and has a border property, if we have a padding added, it would push the
+border outside, the height and the width of the box does not change, but increases space
+between the box and the border
+
+## Margin
+margin is outside of the border and other content
+
+
+padding and margin similar to border and border-width function in a similar way, like we can provide 4 values to them,
+
+
+-----------------------------------------------------------------------------------
+# Div
+
+we can also create our own boxes independent of the automatic boxes, to group together other items and boxes.
+the way we can create these boxes is using
+html element called
+<div></div>
+elements, and they are completely invisible and their work is to act as invisible boxes that creates and groups content in between it's tags.
+it can be styles using the css. we can put as many elements as we want. the tags are called divs.
+
+Div only acts as a container, and nothing else.
