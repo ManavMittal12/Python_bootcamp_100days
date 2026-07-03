@@ -401,9 +401,9 @@ The project for the day is <mark>Color Vocab Website</mark>
 #### Day 44 - Web Foundation - Intermediate CSS 
 **Topics Covered**
 
-- [ ] CSS Colors 
-- [ ] Font properties
-- [ ] Inspecting CSS
-- [ ] The CSS Box Model - Margin, Padding, and Border
+- [x] CSS Colors 
+- [x] Font properties
+- [x] Inspecting CSS
+- [x] The CSS Box Model - Margin, Padding, and Border
 
 The project for the day is <mark>Motivational Poster Website</mark>
