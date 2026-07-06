@@ -415,8 +415,8 @@ The project for the day is <mark>Motivational Poster Website</mark>
 
 - [x] Learn about beautiful soup
 - [x] Parsing HTML and Making Soup
-- [ ] Finding and selecting particular elements with Beautiful Soup
-- [ ] Scraping a live website 
+- [x] Finding and selecting particular elements with Beautiful Soup
+- [x] Scraping a live website 
 - [ ] Learning if webscraping is legal
 
 The project for the day is <mark>100 Movies that you must watch</mark>
