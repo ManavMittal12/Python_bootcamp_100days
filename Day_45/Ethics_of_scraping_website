@@ -1,0 +1,27 @@
+# Ethics of Scraping Website ------------>
+
+# what we are allowed to do and what is not a good idea.
+
+# Google, Yahoo, bing scape the data on the internet and show the data in their
+# searches
+
+# Law on webscraping -
+the law favors web scraping data as long as we think about couple of things
+1) Data that is publicly available and not copyrighted, then it's legal,
+2) If we are using for our own purposes, then it's okay, but if we are commercializing that data
+when we set up a business and needs that data, that's grey area.
+
+# We can't commercialise copyrighted data on our own website.
+# You can't scrape the data behind the authentication
+# The data not behind the authentication can't be bound to a policy.
+
+# A lot of websites use captcha and recaptcha to prevent web scraping to prevent
+bots like our python code from accessing the website
+
+
+# Ethics
+1) Public API first, always go for the api, it is ethical.
+2) Respect the web owner
+# we we add robots.txt, then we will find the advice that they give to the
+robots that are trying to access their website.
+3) Limit your rate of access, maybe not scrapping one a minute
