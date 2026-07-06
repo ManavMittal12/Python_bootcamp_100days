@@ -420,3 +420,9 @@ The project for the day is <mark>Motivational Poster Website</mark>
 - [x] Learning if webscraping is legal
 
 The project for the day is <mark>100 Movies that you must watch</mark>
+
+----
+
+#### Day 46 - Create a spotify playlist using the musical time machine
+
+The project for the day is <mark>Create a spotify playlist</mark>
