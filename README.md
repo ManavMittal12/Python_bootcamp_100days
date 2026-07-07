@@ -356,7 +356,7 @@ the project for the day is <mark>Workout tracking using Google Sheets</mark>
 #### Day 39 & Day 40 -- Flight Finder & Flight Club
 
 - [x] Flight Finder 
-- [ ] Flight Club - TODO
+- [x] Flight Club - TODO
 
 
 ----
@@ -437,9 +437,9 @@ The project for the day is <mark>automated Amazon Price Tracker</mark>
 
 #### Day 48 - Selenium Webdriver Browser and Game playing bot 
 **Topic Covered**
-- [ ] Advanced Web-scraping (Selenium Webdriver)
-- [ ] Installing & Using Selenium webscraping 
-- [ ] How to find and Select Elements on a website with Selenium
+- [x] Advanced Web-scraping (Selenium Webdriver)
+- [x] Installing & Using Selenium webscraping 
+- [x] How to find and Select Elements on a website with Selenium
 - [ ] Automate Filling out Forms and Clicking Buttons with Selenium
 - [ ] The Cookie Clicker Project 
 
