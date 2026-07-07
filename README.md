@@ -436,6 +436,12 @@ The project for the day is <mark>automated Amazon Price Tracker</mark>
 ----
 
 #### Day 48 - Selenium Webdriver Browser and Game playing bot 
+**Topic Covered**
+- [ ] Advanced Web-scraping (Selenium Webdriver)
+- [ ] Installing & Using Selenium webscraping 
+- [ ] How to find and Select Elements on a website with Selenium
+- [ ] Automate Filling out Forms and Clicking Buttons with Selenium
+- [ ] The Cookie Clicker Project 
 
 ----
 
