@@ -426,3 +426,25 @@ The project for the day is <mark>100 Movies that you must watch</mark>
 #### Day 46 - Create a spotify playlist using the musical time machine
 
 The project for the day is <mark>Create a spotify playlist</mark>
+
+----
+
+#### Day 47 - Create an automated Amazon Price Tracker
+
+The project for the day is <mark>automated Amazon Price Tracker</mark>
+
+----
+
+#### Day 48 - Selenium Webdriver Browser and Game playing bot 
+
+----
+
+#### Day 49 - Automating your exercise routine at the gym
+
+----
+
+#### Day 50 - Auto Swiping Bot
+
+----
+
+Rest of the course continued in part-2 repo...
