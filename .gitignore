@@ -5,4 +5,4 @@
 .venv314/
 
 # environment variables
-Day_39&40/.env
+*.env
