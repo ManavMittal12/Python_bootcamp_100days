@@ -440,7 +440,7 @@ The project for the day is <mark>automated Amazon Price Tracker</mark>
 - [x] Advanced Web-scraping (Selenium Webdriver)
 - [x] Installing & Using Selenium webscraping 
 - [x] How to find and Select Elements on a website with Selenium
-- [ ] Automate Filling out Forms and Clicking Buttons with Selenium
+- [x] Automate Filling out Forms and Clicking Buttons with Selenium
 - [ ] The Cookie Clicker Project 
 
 ----
@@ -452,5 +452,3 @@ The project for the day is <mark>automated Amazon Price Tracker</mark>
 #### Day 50 - Auto Swiping Bot
 
 ----
-
-Rest of the course continued in part-2 repo...
