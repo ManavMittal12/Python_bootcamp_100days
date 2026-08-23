@@ -6,3 +6,6 @@
 
 # environment variables
 *.env
+
+# Selenium user profile
+Day_49/chrome_profile
