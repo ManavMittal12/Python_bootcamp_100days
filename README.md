@@ -443,12 +443,29 @@ The project for the day is <mark>automated Amazon Price Tracker</mark>
 - [x] Automate Filling out Forms and Clicking Buttons with Selenium
 - [x] The Cookie Clicker Project 
 
+The project for the day is <mark>The Cookie Clicker</mark>
+
 ----
 
 #### Day 49 - Automating your exercise routine at the gym
 
+The project for the day is <mark>Automating your exercise routine at gym</mark>
+
 ----
 
 #### Day 50 - Auto Swiping Bot
+
+----
+#### Day 54 - Introduction to Web Development using Flash
+**Topics Covered**
+
+- [ ] Understanding Backend Web Development with Python
+- [ ] Creating webserver with Flask 
+- [ ] Understanding Command Line on windows and mac 
+- [ ] understanding __name__ and __main__ : Special Attributes built in python
+- [ ] Python function as First class objects : passing and nesting functions 
+- [ ] Understanding Python Decorator functions and @ syntax.  
+  
+The project for the day is <mark>Creating your own decorator function</mark>
 
 ----
