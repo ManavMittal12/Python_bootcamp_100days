@@ -459,8 +459,8 @@ The project for the day is <mark>Automating your exercise routine at gym</mark>
 #### Day 54 - Introduction to Web Development using Flash
 **Topics Covered**
 
-- [ ] Understanding Backend Web Development with Python
-- [ ] Creating webserver with Flask 
+- [x] Understanding Backend Web Development with Python
+- [x] Creating webserver with Flask 
 - [ ] Understanding Command Line on windows and mac 
 - [ ] understanding __name__ and __main__ : Special Attributes built in python
 - [ ] Python function as First class objects : passing and nesting functions 
