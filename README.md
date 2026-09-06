@@ -469,3 +469,15 @@ The project for the day is <mark>Automating your exercise routine at gym</mark>
 The project for the day is <mark>Creating your own decorator function</mark>
 
 ----
+
+#### Day 55 - HTML & URL Parsing in Flash and the Higher Lower Game.
+**Topics Covered**
+
+- [ ] Working Flask URL Paths and th Flask Debugger 
+- [ ] Rendering HTML Elements with Flask
+- [ ] Challenge: Using Python Decorators to Style HTML Tag
+- [ ] __Advanced Decorators with *args and "**kwargs"__
+
+The project for the day is <mark>Higher or Lower URLs</mark>
+
+----
