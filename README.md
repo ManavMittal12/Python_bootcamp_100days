@@ -461,10 +461,10 @@ The project for the day is <mark>Automating your exercise routine at gym</mark>
 
 - [x] Understanding Backend Web Development with Python
 - [x] Creating webserver with Flask 
-- [ ] Understanding Command Line on windows and mac 
-- [ ] understanding __name__ and __main__ : Special Attributes built in python
-- [ ] Python function as First class objects : passing and nesting functions 
-- [ ] Understanding Python Decorator functions and @ syntax.  
+- [x] Understanding Command Line on windows and mac 
+- [x] understanding __name__ and __main__ : Special Attributes built in python
+- [x] Python function as First class objects : passing and nesting functions 
+- [x] Understanding Python Decorator functions and @ syntax.  
   
 The project for the day is <mark>Creating your own decorator function</mark>
 
