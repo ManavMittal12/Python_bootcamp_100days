@@ -481,3 +481,12 @@ The project for the day is <mark>Creating your own decorator function</mark>
 The project for the day is <mark>Higher or Lower URLs</mark>
 
 ----
+
+#### Day 56 - Rendering HTML/Static files and using website template.
+
+**Topics Covered**
+- [x] Rendering HTML files with Flask
+- [ ] Serving Static Files using Flask
+- [ ] How to use website templates to speed up web Development
+
+The project for the day is <mark>Name Card Website Template</mark>
