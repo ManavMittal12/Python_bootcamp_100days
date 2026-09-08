@@ -486,7 +486,7 @@ The project for the day is <mark>Higher or Lower URLs</mark>
 
 **Topics Covered**
 - [x] Rendering HTML files with Flask
-- [ ] Serving Static Files using Flask
-- [ ] How to use website templates to speed up web Development
+- [x] Serving Static Files using Flask
+- [x] How to use website templates to speed up web Development
 
 The project for the day is <mark>Name Card Website Template</mark>
